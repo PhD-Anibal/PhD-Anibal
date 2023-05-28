@@ -23,9 +23,9 @@
 
 Analísta de dados: certificado emitido pela EBAC (Escola Britânica de Artes Criativas).
     <p>Entre em contato:</p>
-    <p><a href="mailto:anibalbras@hotmail.com" target="_blank>
+    <p><a href="mailto:anibalbras@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
 </a></p>
-    <p><a href="https://wa.me/5492215240025" target="_blank>
+    <p><a href="https://wa.me/5492215240025" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a></p>
