@@ -29,8 +29,5 @@ Analísta de dados: certificado emitido pela EBAC (Escola Britânica de Artes Cr
     <p><a href="https://wa.me/5492215240025" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a></p>
-![Snake animation](https://github.com/PhD-Anibal/PhD-Anibal/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
