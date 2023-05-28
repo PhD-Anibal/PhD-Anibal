@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Bem-vindo ao meu perfil 👋
+### Eu sou Anibal Maldonado, criador de um mundo de soluções. 
+<p>Atualmente usando Python, SQL, DataStudio, Power BI, Selenium, Pandas, etc.</p>
+<p>Interesse principal: Ciência e Análise de dados, matemática e estatística, BI 👀</p>
+<p>✔ Portfolio: As publicações dos projetos pessoais e académicos podem ser encontrados na plataforma kaggle</p>
 
-<!--
-**PhD-Anibal/PhD-Anibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div class="Box mt-4 profile-readme" >
+  <div class="Box-body p-4">
 
-Here are some ideas to get you started:
+📫 Pode encontrar mais informação minha aqui: 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/PhD-Anibal) 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anibal-maldonado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anibal GitHub estatística](https://github-readme-stats.vercel.app/api?username=PhD-Anibal&theme=highcontrast&show_icons=true)
+
+
+👨‍💻 Conhecimento em:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+
+Analísta de dados: certificado emitido pela EBAC (Escola Britânica de Artes Criativas).
